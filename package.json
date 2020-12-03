@@ -1,4 +1,5 @@
 {
+  "version": "1.0.3",
   "name": "electron-react-boilerplate",
   "productName": "ElectronReact",
   "description": "Electron application boilerplate based on React, React Router, Webpack, React Hot Loader for rapid application development",
