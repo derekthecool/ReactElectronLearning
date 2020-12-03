@@ -1,6 +1,7 @@
 # Dereks React Electron Development Testing
 
-This is where I want to test the basics of using react and electron
+This is where I want to test the basics of using react and electron.
+I want to be able to easily publish apps and perform automatic updates
 
 <img src="internals/img/erb-banner.png" width="100%" />
 
