@@ -1,5 +1,7 @@
 # Dereks React Electron Development Testing
 
+This is where I want to test the basics of using react and electron
+
 <img src="internals/img/erb-banner.png" width="100%" />
 
 <br>
